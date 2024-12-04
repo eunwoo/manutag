@@ -8,5 +8,6 @@
 2. git clone https://github.com/eunwoo/manutag.git
 3. cd manutag
 4. python -m venv .venv
-5. python -m pip install -r requirements.txt
-6. python main.py
+5. .venv/scripts/activate.ps1
+6. python -m pip install -r requirements.txt
+7. python main.py
